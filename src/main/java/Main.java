@@ -19,7 +19,6 @@ import java.util.Random;
 
 public class Main extends ListenerAdapter {
     List<User> members;
-    List<String> drinkActions = Arrays.asList(" take a drink", " take a shot", " chug the rest of your drink (get fucked idiot)");
 
     public static void main(String[] args) throws LoginException {
         String phrase;
